@@ -25,16 +25,14 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with ScreenToGif
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+During the development of this website, one of the challenges I encountered was that I was occasionally not sure about some specific syntax when programming. For instance, Challenge #3 requires me to set the inner HTML content of the gameCard <div> element. However, I could not exactly remember how to write the syntax. I looked it up on the JavaScript documentation (website: MDN WebDocs) and successfully wrote the code after reviewing the content. Similarly, I used other resources such as W3Schools to recapture what I have learned regarding website development.
 
 ## License
 
